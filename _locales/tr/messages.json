@@ -1,0 +1,680 @@
+{
+   "Delete": {
+      "message": "Sil"
+   },
+   "No": {
+      "message": "Hayır"
+   },
+   "Reply": {
+      "message": "Cevapla"
+   },
+   "Retweet": {
+      "message": "Yeniden tweetle"
+   },
+   "Yes": {
+      "message": "Evet"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "add_mention_action": {
+      "message": "Bahset"
+   },
+   "ajaxFailed": {
+      "message": "AJAX isteği başarısız (kötü bağlantı?)"
+   },
+   "authorizing": {
+      "message": "Lütfen bekleyin..."
+   },
+   "autoUpdatesSuspended": {
+      "message": "Otomatik güncellemeler iptal edildi"
+   },
+   "automatic": {
+      "message": "Tarayıcı ile aynı"
+   },
+   "btnAuthorize": {
+      "message": "Yetkilendir!"
+   },
+   "btn_default": {
+      "message": "Varsayılan ayarlara geri dön"
+   },
+   "btn_reset": {
+      "message": "Sıfırla"
+   },
+   "btn_reset_popup_size": {
+      "message": "Pencere Boyutunu Sıfırla"
+   },
+   "btn_save": {
+      "message": "Kaydet"
+   },
+   "cancelTweet": {
+      "message": "İptal"
+   },
+   "canceling": {
+      "message": "İptal ediliyor..."
+   },
+   "cbAuthorized": {
+      "message": "Silver Bird yetkili!"
+   },
+   "cbNotAuthorized": {
+      "message": "Bir hata oluştu. Lütfen Silver Bird ikonuna tekrar tıklayın."
+   },
+   "changeNotificationSettings": {
+      "message": "Bildirim seçeneklerini ayarlar sayfasından değiştirebilirsiniz."
+   },
+   "changes_restart": {
+      "message": "Bazı ayarların aktif olması için eklentinin yeniden başlatılması gerek. Bunu şimdi yapmak ister misiniz?\u003Cbr>    (Okunmamış tweet sayınız sıfırlanacak)"
+   },
+   "composeTweet": {
+      "description": "Text for composing new tweet",
+      "message": "Yeni tweet"
+   },
+   "conf_saved": {
+      "message": "Ayarlarınız başarıyla kaydedildi."
+   },
+   "day_plural": {
+      "message": "gün"
+   },
+   "day_singular": {
+      "message": "gün"
+   },
+   "deleteConfirm": {
+      "message": "Bu iletiyi sil: "
+   },
+   "detach_window": {
+      "message": "Pencereyi Ayır"
+   },
+   "errorExpandingUrl": {
+      "message": "Bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "exceededAPIHits": {
+      "message": "Günlük API kullanım limitini aştınız. Lütfen \u003Ca href='#' class=\"msg-trigger-openoptions\">ayarlar sayfasından\u003C/a> yenileme aralığını kontrol edin. Silver Bird $nextResetDate $nextResetTime$ tarihine kadar güncellenmeyecek.",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$2"
+         },
+         "nextResetTime": {
+            "content": "$3"
+         },
+         "options_url": {
+            "content": "$1"
+         }
+      }
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Silver Bird, Twitter hesabınızı Google Chrome üzerinden takip etmenizi ve yönetmenizi sağlayan bir eklentidir."
+   },
+   "follow_action": {
+      "message": "Takip Et"
+   },
+   "fromApp": {
+      "message": "istemci:"
+   },
+   "g_advanced": {
+      "message": "Gelişmiş"
+   },
+   "g_image_service": {
+      "message": "Görsel servisi"
+   },
+   "g_microblogging_service": {
+      "message": "Mikroblog servisi"
+   },
+   "g_notifications": {
+      "message": "Bildirimler"
+   },
+   "g_shortener": {
+      "message": "Kısaltıcı"
+   },
+   "g_timelines": {
+      "message": "Akışlar"
+   },
+   "g_trending_topics": {
+      "message": "Popüler konular"
+   },
+   "g_ui": {
+      "message": "Arayüz"
+   },
+   "hide": {
+      "message": "Gizle"
+   },
+   "hour_plural": {
+      "message": "saat"
+   },
+   "hour_singular": {
+      "message": "saat"
+   },
+   "inReply": {
+      "message": "cevap olarak:"
+   },
+   "justNow": {
+      "message": "Az önce"
+   },
+   "l_base_oauth_signing_url": {
+      "message": "OAuth Giriş Adresi:"
+   },
+   "l_base_oauth_url": {
+      "message": "OAuth Adresi:"
+   },
+   "l_base_search_url": {
+      "message": "Arama API Adresi:"
+   },
+   "l_base_signing_url": {
+      "message": "API Giriş Adresi:"
+   },
+   "l_base_url": {
+      "message": "Twitter API Adresi:"
+   },
+   "l_blocked_users": {
+      "message": "Engellenen kullanıcılar:"
+   },
+   "l_change_icon": {
+      "message": "Simgeyi değiştir"
+   },
+   "l_compose_position": {
+      "message": "Yeni tweet konumu:"
+   },
+   "l_default_locale": {
+      "message": "Varsayılan dil"
+   },
+   "l_font_family": {
+      "message": "Yazı tipi:"
+   },
+   "l_font_size": {
+      "message": "Yazı boyutu:"
+   },
+   "l_hits_notice": {
+      "message": "Saatlik API limiti: "
+   },
+   "l_hover_timeout": {
+      "message": "Okumak için üzerinde bekleme süresi (ms):"
+   },
+   "l_icon_color": {
+      "message": "Simge rengi:"
+   },
+   "l_icon_color_column": {
+      "message": "Simge rengi"
+   },
+   "l_image_up_service": {
+      "message": "Görsel yükleme servisi"
+   },
+   "l_include_in_unified": {
+      "message": "Birleşik akışa dahil et"
+   },
+   "l_max_cached_tweets": {
+      "message": "Gösterilecek maksimum tweet:"
+   },
+   "l_name_attribute": {
+      "message": "Tweetlerdeki isimler nasıl görünsün?:"
+   },
+   "l_noti_desktop": {
+      "message": "Masaüstü bildirimleri"
+   },
+   "l_noti_on_page": {
+      "message": "Tarayıcı bildirimleri"
+   },
+   "l_notification_fade_timeout": {
+      "message": "Bildirim zaman aşımı(s):"
+   },
+   "l_notification_max_popups": {
+      "message": "Maksimum bildirim sayısı (-1: hepsi):"
+   },
+   "l_refresh_interval": {
+      "message": "Yenileme aralığı(s)"
+   },
+   "l_reply_all": {
+      "message": "Tüm bahsedilenleri cevapla:"
+   },
+   "l_request_timeout": {
+      "message": "İstek zamanaşımı(ms):"
+   },
+   "l_same_signing_urls": {
+      "message": "Aynı Giriş Adresleri:"
+   },
+   "l_share_include_title": {
+      "message": "Sayfa başlığını dahil et:"
+   },
+   "l_shortener_acct": {
+      "message": "Kişisel hesap kullan?"
+   },
+   "l_shortener_key": {
+      "message": "API Anahtarı:"
+   },
+   "l_shortener_login": {
+      "message": "API Giriş:"
+   },
+   "l_show_expanded_urls": {
+      "message": "Kısaltılmış adresleri genişlet:"
+   },
+   "l_show_hits_in_popup": {
+      "message": "API kullanım sayısını göster:"
+   },
+   "l_show_user_autocomplete": {
+      "message": "Kullanıcı adlarını otomatik tamamla:"
+   },
+   "l_tabs_count": {
+      "message": "Sekme sayısı"
+   },
+   "l_theme": {
+      "message": "Tema:"
+   },
+   "l_trending_topics_woeid": {
+      "message": "Popüler konular yerelleştirmesi"
+   },
+   "l_tweet_color": {
+      "message": "Tweet rengi:"
+   },
+   "l_tweet_notification": {
+      "message": "Tweet bildirimi"
+   },
+   "l_tweets_color_only_unified": {
+      "message": "Sadece birleşik akışta renkler:"
+   },
+   "l_tweets_notification_style": {
+      "message": "Bildirim stili:"
+   },
+   "l_tweets_per_page": {
+      "message": "Sayfa başı gösterilecek tweet sayısı:"
+   },
+   "l_unified_timeline": {
+      "message": "Birleşik Akış:"
+   },
+   "l_url_shortener": {
+      "message": "URL kısaltıcı:"
+   },
+   "l_visible": {
+      "message": "Görünsün"
+   },
+   "loadingImage": {
+      "message": "Görsel yükleniyor..."
+   },
+   "loadingLongUrl": {
+      "message": "URL yükleniyor..."
+   },
+   "loadingMap": {
+      "message": "Harita yükleniyor..."
+   },
+   "logout": {
+      "description": "The text for the logout link",
+      "message": "Çıkış"
+   },
+   "markAllRead": {
+      "message": "Tümünü okundu olarak işaretle"
+   },
+   "markFavorite": {
+      "message": "Favorilere ekle"
+   },
+   "minuteAgo": {
+      "message": "Saniyeler önce"
+   },
+   "minute_plural": {
+      "message": "dakika"
+   },
+   "minute_singular": {
+      "message": "dakika"
+   },
+   "minutes": {
+      "message": "$nr_of_minutes$ $minutes$ önce",
+      "placeholders": {
+         "minutes": {
+            "content": "$2",
+            "example": "minute or minutes (singular / plural)"
+         },
+         "nr_of_minutes": {
+            "content": "$1"
+         }
+      }
+   },
+   "month_plural": {
+      "message": "ay"
+   },
+   "month_singular": {
+      "message": "ay"
+   },
+   "nerds_link": {
+      "message": "API kullanım istatistikleri"
+   },
+   "newToken": {
+      "message": "Başka bir işaretçi iste"
+   },
+   "newTweets": {
+      "message": "$count$ $newtweets$",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "newtweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newTweetsAvailable": {
+      "message": "Yeni $count$ tweet var. Okumak için tıklayın.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "tweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newtweets_plural": {
+      "message": "yeni tweet"
+   },
+   "newtweets_singular": {
+      "message": "yeni tweet"
+   },
+   "notice_api_hits": {
+      "message": "Saatlik API limiti en fazla \u003Cspan style=\"color: red;\">\u003Cspan class=\"__hourly_limit\">\u003C/span>\u003C/span> olabilir!\u003Cbr>Eğer birden fazla Twitter istemcisi kullanıyorsanız aşağıdaki değerleri daha da azaltmalısınız."
+   },
+   "notice_right_click_change": {
+      "message": "* Artık pencerede sağ tıklayarak buradaki ayarların çoğunu pencere üzerinden değiştirebilirsiniz."
+   },
+   "notif_dms": {
+      "message": "Direkt iletiler:"
+   },
+   "notif_home": {
+      "message": "Ana sayfa:"
+   },
+   "notif_lists": {
+      "message": "Listeler:"
+   },
+   "notif_mentions": {
+      "message": "Bahsetmeler:"
+   },
+   "notif_search": {
+      "message": "Ara:"
+   },
+   "oAuthError": {
+      "message": "Bir hata oluştu: $errorMessage$. Lütfen \u003Ca href=\"#\" class=\"msg-trigger-openoptions\">yetkilendirme işlemini tekrar başlatın\u003C/a>.",
+      "placeholders": {
+         "errorMessage": {
+            "content": "$1"
+         }
+      }
+   },
+   "o_both": {
+      "message": "İkisi de"
+   },
+   "o_bottom": {
+      "message": "Alt"
+   },
+   "o_extra_large": {
+      "message": "Çok büyük"
+   },
+   "o_large": {
+      "message": "Büyük"
+   },
+   "o_name": {
+      "message": "Gerçek ad"
+   },
+   "o_normal": {
+      "message": "Normal"
+   },
+   "o_screen_name": {
+      "message": "Kullanıcı adı"
+   },
+   "o_small": {
+      "message": "Küçük"
+   },
+   "o_top": {
+      "message": "Üst"
+   },
+   "oldRT": {
+      "message": "Paylaş"
+   },
+   "options": {
+      "description": "Options link",
+      "message": "Seçenekler"
+   },
+   "options_title": {
+      "message": "Silver Bird Seçenekleri"
+   },
+   "preventClosing": {
+      "message": "Kapanmaması için tıklayın."
+   },
+   "profile_action": {
+      "message": "Profil"
+   },
+   "queue_retried": {
+      "message": "$timediff$ tarihinden beri $retries$ defa gönderilmeye çalıştı [$laststatus$]",
+      "placeholders": {
+         "laststatus": {
+            "content": "$3"
+         },
+         "retries": {
+            "content": "$1"
+         },
+         "timediff": {
+            "content": "$2"
+         }
+      }
+   },
+   "queue_trying": {
+      "message": "$timediff$ tarihinden beri gönderilmeyi bekliyor",
+      "placeholders": {
+         "timediff": {
+            "content": "$1"
+         }
+      }
+   },
+   "queued_messages": {
+      "message": "Kuyruktaki mesajlar:"
+   },
+   "rate_limit_reset": {
+      "message": "Bir sonraki Twitter API sıfırlama tarihi: "
+   },
+   "refresh": {
+      "description": "Refresh link",
+      "message": "Yenile"
+   },
+   "remaining_api_hits": {
+      "message": "Kalan Twitter API Kullanım Sayısı: "
+   },
+   "remove": {
+      "message": "Kaldır"
+   },
+   "resetSize": {
+      "message": "Varsayılan boyuta dönüş için çift tıklayın"
+   },
+   "resume": {
+      "message": "Devam"
+   },
+   "retweetConfirm": {
+      "message": "Bu iletiyi yeniden tweetle: "
+   },
+   "retweetedBy": {
+      "message": "tekrar tweetleyen:"
+   },
+   "retweetedByMe": {
+      "message": "sizin tarafınızdan tekrar tweetlendi"
+   },
+   "selectList": {
+      "message": "- Bir liste seç -"
+   },
+   "sentTo": {
+      "message": "gönderildi"
+   },
+   "shortenIt": {
+      "message": "Kısalt"
+   },
+   "shorten_current": {
+      "message": "Aktif sayfayı paylaş"
+   },
+   "shortenerIdleString": {
+      "message": "Buraya kısaltılacak adresi yazın. Açık sayfayı sağdaki simgeden kısaltın."
+   },
+   "show": {
+      "message": "Göster"
+   },
+   "successAuth": {
+      "message": "Tebrikler, kimliğiniz doğrulandı. Silver Bird'ün tadını çıkarın!"
+   },
+   "suspend": {
+      "description": "Suspend link",
+      "message": "İptal"
+   },
+   "timeAgo": {
+      "message": "$time$ $time_string$ önce",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         },
+         "time_string": {
+            "content": "$2"
+         }
+      }
+   },
+   "timelineDM": {
+      "description": "The direct message time line tab",
+      "message": "Mesajlar"
+   },
+   "timelineFavorites": {
+      "description": "The home time line tab",
+      "message": "Favoriler"
+   },
+   "timelineHome": {
+      "description": "The home time line tab",
+      "message": "Ana sayfa"
+   },
+   "tml_favorites": {
+      "message": "Favoriler:"
+   },
+   "trending_topics": {
+      "message": "Popüler konular"
+   },
+   "tryAgain": {
+      "message": "Tekrar deneyin"
+   },
+   "tweet_plural": {
+      "message": "tweet"
+   },
+   "tweet_send_error": {
+      "message": "Tweetinizi gönderirken bir hata oluştu. Twitter garip davranıyor olabilir mi? Tekrar deneyebilirsiniz ama aynı mesajı göndermediğinizden emin olun."
+   },
+   "tweet_singular": {
+      "message": "tweet"
+   },
+   "tweetit": {
+      "message": "Gönder"
+   },
+   "tweets_action": {
+      "message": "Tweetler"
+   },
+   "ue_deletingTweet": {
+      "message": "Tweet silinirken $status$ hatası oluştu.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_fetchingLists": {
+      "message": "Listeler alınırken $status$ hatası oluştu.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_markFavorite": {
+      "message": "Favorilere eklerken $status$ hatası oluştu.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_retweeting": {
+      "message": "Tekrar tweetlerken $status$ hatası oluştu.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_unmarkFavorite": {
+      "message": "Favoriden kaldırırken $status$ hatası oluştu.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets": {
+      "message": "Tweetler güncellenirken $baseError$ hatası oluştu.",
+      "placeholders": {
+         "baseError": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets2": {
+      "message": "Eğer bu hata ile çok sık karşılaşıyorsanız çıkış yapıp tekrar girmeyi deneyin."
+   },
+   "unfollow_action": {
+      "message": "Takip Etmeyi Bırak"
+   },
+   "unmarkFavorite": {
+      "message": "Favorilerden kaldır"
+   },
+   "updateList": {
+      "message": "Listeler güncelleniyor..."
+   },
+   "w_DM": {
+      "message": "Mesajlar"
+   },
+   "w_Favorites": {
+      "message": "Favoriler"
+   },
+   "w_Home": {
+      "message": "Ana sayfa"
+   },
+   "w_Lists": {
+      "message": "Listeler"
+   },
+   "w_Mentions": {
+      "message": "Bahsetmeler"
+   },
+   "w_ReceivedDM": {
+      "message": "Alınan iletiler"
+   },
+   "w_Search": {
+      "message": "Ara"
+   },
+   "w_SentDM": {
+      "message": "Gönderilen iletiler"
+   },
+   "w_Unified": {
+      "message": "Tümü"
+   },
+   "warningAPIHits": {
+      "message": "API limitinizi çok hızlı dolduruyorsunuz.\u003Cbr>Lütfen \u003Ca href='#' class=\"msg-trigger-openoptions\">ayarlar sayfasından\u003C/a> yenileme aralığını kontrol edin.\u003Cbr>Kalan hak: $remainingHits$ - Bir sonraki sıfırlama tarihi: $nextResetDate$ $nextResetTime$",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$3"
+         },
+         "nextResetTime": {
+            "content": "$4"
+         },
+         "options_url": {
+            "content": "$1"
+         },
+         "remainingHits": {
+            "content": "$2"
+         }
+      }
+   },
+   "yearsAgo": {
+      "message": "yıl önce"
+   },
+   "yourPIN": {
+      "message": "PIN numaranız: $pin$",
+      "placeholders": {
+         "pin": {
+            "content": "$1"
+         }
+      }
+   }
+}

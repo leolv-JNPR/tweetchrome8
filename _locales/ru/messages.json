@@ -1,0 +1,626 @@
+{
+   "Delete": {
+      "message": "Удалить"
+   },
+   "No": {
+      "message": "Нет"
+   },
+   "Reply": {
+      "message": "Ответить"
+   },
+   "Retweet": {
+      "message": "Ретвит"
+   },
+   "Yes": {
+      "message": "Да"
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "ajaxFailed": {
+      "message": "Сбой запрос AJAX (плохое содинение?)"
+   },
+   "authorizing": {
+      "message": "Пожалуйста, подождите, авторизуем Silver Bird..."
+   },
+   "autoUpdatesSuspended": {
+      "message": "Автоматическое обновление приостановлено"
+   },
+   "btnAuthorize": {
+      "message": "Авторизуйся!"
+   },
+   "btn_default": {
+      "message": "По-умолчанию"
+   },
+   "btn_reset": {
+      "message": "Сбросить"
+   },
+   "btn_reset_popup_size": {
+      "message": "Сбросить размер окна"
+   },
+   "btn_save": {
+      "message": "Сохранить"
+   },
+   "cancelTweet": {
+      "message": "Отменить твит"
+   },
+   "canceling": {
+      "message": "Отмена..."
+   },
+   "cbAuthorized": {
+      "message": "Silver Bird авторизован!"
+   },
+   "cbNotAuthorized": {
+      "message": "Упс... Что-то пошло не так. Попробуйте нажать на иконку Silver Bird снова."
+   },
+   "changeNotificationSettings": {
+      "message": "Вы можете изменить настройки оповещений на странице настроек"
+   },
+   "changes_restart": {
+      "message": "Однако, некоторые изменения требуют перезапуска расширения. Сделать это сейчас?\u003Cbr>    (Это сбросит счетчик непрочитанных твитов.)"
+   },
+   "composeTweet": {
+      "description": "Text for composing new tweet",
+      "message": "Написать Твит"
+   },
+   "conf_saved": {
+      "message": "Ваши настройки успешно сохранены!"
+   },
+   "day_plural": {
+      "message": "дней"
+   },
+   "day_singular": {
+      "message": "день"
+   },
+   "deleteConfirm": {
+      "message": "Удалить это сообщение: "
+   },
+   "errorExpandingUrl": {
+      "message": "Извините, что-то пошло не так, \u003Cnobr>попробуйте\u003C/nobr> еще раз."
+   },
+   "exceededAPIHits": {
+      "message": "Вы превысили лимит API. Пожалуйста, пересмотрите настройки интервалов обновления в \u003Ca href='#' class=\"msg-trigger-openoptions\">настройках\u003C/a>. Silver Bird не будет обновлять до $nextResetDate $nextResetTime$.",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$2"
+         },
+         "nextResetTime": {
+            "content": "$3"
+         },
+         "options_url": {
+            "content": "$1"
+         }
+      }
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Silver Bird это Twitter расширение, которое позволяет читать ленту и взаимодействовать с вашим twitter аккаунтом."
+   },
+   "fromApp": {
+      "message": "через"
+   },
+   "g_advanced": {
+      "message": "Продвинутые"
+   },
+   "g_microblogging_service": {
+      "message": "Служба микроблогов"
+   },
+   "g_notifications": {
+      "message": "Оповещения"
+   },
+   "g_shortener": {
+      "message": "Сокращатель"
+   },
+   "g_timelines": {
+      "message": "Ленты"
+   },
+   "g_ui": {
+      "message": "Интерфейс"
+   },
+   "hide": {
+      "message": "Скрыть "
+   },
+   "hour_plural": {
+      "message": "часов"
+   },
+   "hour_singular": {
+      "message": "часа"
+   },
+   "inReply": {
+      "message": "в ответ на"
+   },
+   "justNow": {
+      "message": "только что"
+   },
+   "l_base_oauth_signing_url": {
+      "message": "OAuth Signing URL:"
+   },
+   "l_base_oauth_url": {
+      "message": "OAuth URL:"
+   },
+   "l_base_search_url": {
+      "message": "Search API URL:"
+   },
+   "l_base_signing_url": {
+      "message": "API Signing URL:"
+   },
+   "l_base_url": {
+      "message": "Twitter's API URL:"
+   },
+   "l_blocked_users": {
+      "message": "Заблокированые пользователи:"
+   },
+   "l_change_icon": {
+      "message": "Изменить иконку"
+   },
+   "l_compose_position": {
+      "message": "Положение поля ввода:"
+   },
+   "l_font_family": {
+      "message": "Шрифт:"
+   },
+   "l_font_size": {
+      "message": "Размер шрифта:"
+   },
+   "l_hits_notice": {
+      "message": "Обращений к API в час: "
+   },
+   "l_hover_timeout": {
+      "message": "Время чтения (мс):"
+   },
+   "l_icon_color": {
+      "message": "Цвет иконки:"
+   },
+   "l_icon_color_column": {
+      "message": "Цвет иконки"
+   },
+   "l_include_in_unified": {
+      "message": "Включать в общую ленту"
+   },
+   "l_max_cached_tweets": {
+      "message": "Максимум показанных твитов:"
+   },
+   "l_name_attribute": {
+      "message": "Имя в твитах:"
+   },
+   "l_noti_desktop": {
+      "message": "На рабочем столе"
+   },
+   "l_noti_on_page": {
+      "message": "Оповещения на странице"
+   },
+   "l_notification_fade_timeout": {
+      "message": "Таймаут оповещения (с):"
+   },
+   "l_refresh_interval": {
+      "message": "Интервал обновления (с)"
+   },
+   "l_reply_all": {
+      "message": "Отвечать всем упомянутым:"
+   },
+   "l_request_timeout": {
+      "message": "Таймаут запроса (мс):"
+   },
+   "l_same_signing_urls": {
+      "message": "Same signing URLs:"
+   },
+   "l_share_include_title": {
+      "message": "Включать название страницы (поделиться):"
+   },
+   "l_shortener_acct": {
+      "message": "Использовать личный аккаунт?"
+   },
+   "l_shortener_key": {
+      "message": "API Key:"
+   },
+   "l_shortener_login": {
+      "message": "API Login:"
+   },
+   "l_show_expanded_urls": {
+      "message": "Разворачивать короткие ссылки:"
+   },
+   "l_show_hits_in_popup": {
+      "message": "Показывать число обращений к API:"
+   },
+   "l_show_user_autocomplete": {
+      "message": "Автодополнять имена:"
+   },
+   "l_tabs_count": {
+      "message": "Число закладок"
+   },
+   "l_theme": {
+      "message": "Тема:"
+   },
+   "l_tweet_color": {
+      "message": "Цвет твита:"
+   },
+   "l_tweet_notification": {
+      "message": "Оповещения о твитах"
+   },
+   "l_tweets_color_only_unified": {
+      "message": "Цвета только в общей ленте:"
+   },
+   "l_tweets_notification_style": {
+      "message": "Стиль оповещений:"
+   },
+   "l_tweets_per_page": {
+      "message": "Твитов на странице:"
+   },
+   "l_unified_timeline": {
+      "message": "Общая лента:"
+   },
+   "l_url_shortener": {
+      "message": "Сокращатель ссылок:"
+   },
+   "l_visible": {
+      "message": "Показывать"
+   },
+   "loadingImage": {
+      "message": "Загрузка изображения..."
+   },
+   "loadingLongUrl": {
+      "message": "Загрузка длинной ссылки..."
+   },
+   "loadingMap": {
+      "message": "Загрузка карты..."
+   },
+   "logout": {
+      "description": "The text for the logout link",
+      "message": "Выход"
+   },
+   "markAllRead": {
+      "message": "Пометить все как прочитанное"
+   },
+   "markFavorite": {
+      "message": "Пометить как избранное"
+   },
+   "minuteAgo": {
+      "message": "меньше минуты назад"
+   },
+   "minute_plural": {
+      "message": "минут"
+   },
+   "minute_singular": {
+      "message": "минуты"
+   },
+   "minutes": {
+      "message": "$nr_of_minutes$ $minutes$ назад",
+      "placeholders": {
+         "minutes": {
+            "content": "$2",
+            "example": "minute or minutes (singular / plural)"
+         },
+         "nr_of_minutes": {
+            "content": "$1"
+         }
+      }
+   },
+   "month_plural": {
+      "message": "месяцев"
+   },
+   "month_singular": {
+      "message": "месяц"
+   },
+   "nerds_link": {
+      "message": "Статистика обращений к API (для ботанов)"
+   },
+   "newToken": {
+      "message": "Запросить другой ключ"
+   },
+   "newTweets": {
+      "message": "$newtweets$: $count$",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "newtweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newTweetsAvailable": {
+      "message": " Новых твитов: $count$. Обновить сейчас.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "tweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newtweets_plural": {
+      "message": "Новых твитов"
+   },
+   "newtweets_singular": {
+      "message": "Новых твитов"
+   },
+   "notice_api_hits": {
+      "message": "Вы должны держать число обращений к API \u003Cspan style=\"color: red;\">ниже \u003Cspan class=\"__hourly_limit\">\u003C/span>\u003C/span>! Иначе Silver Bird перестанет работать и ленты не будут обновляться.\u003Cbr>\u003Cspan style=\"color: red;\">Помните\u003C/span>, если вы используете несколько Twitter клиентов, вы должны держать число обращений еще ниже."
+   },
+   "notice_right_click_change": {
+      "message": "* Эй, теперь вы можете нажать правой кнопкой, чтобы изменить большинство этих значений прямо из всплывающего окна. Просто убирайтесь отсюда! :)"
+   },
+   "notif_dms": {
+      "message": "Личные:"
+   },
+   "notif_home": {
+      "message": "Главная:"
+   },
+   "notif_lists": {
+      "message": "Списки:"
+   },
+   "notif_mentions": {
+      "message": "Упоминания:"
+   },
+   "notif_search": {
+      "message": "Поиск:"
+   },
+   "oAuthError": {
+      "message": "Во время проверки подлинности возникла ошибка: $errorMessage$. Пожалуйста, \u003Ca href=\"#\" class=\"msg-trigger-openoptions\">нажмите чтобы повторить процесс\u003C/a>",
+      "placeholders": {
+         "errorMessage": {
+            "content": "$1"
+         }
+      }
+   },
+   "o_both": {
+      "message": "Оба имени"
+   },
+   "o_bottom": {
+      "message": "Снизу"
+   },
+   "o_extra_large": {
+      "message": "Очень большой"
+   },
+   "o_large": {
+      "message": "Большой"
+   },
+   "o_name": {
+      "message": "Настоящее имя"
+   },
+   "o_normal": {
+      "message": "Нормальный"
+   },
+   "o_screen_name": {
+      "message": "Имя пользователя (nickname)"
+   },
+   "o_small": {
+      "message": "Маленький"
+   },
+   "o_top": {
+      "message": "Сверху"
+   },
+   "oldRT": {
+      "message": "Поделиться (старый RT)"
+   },
+   "options": {
+      "description": "Options link",
+      "message": "Настройки"
+   },
+   "options_title": {
+      "message": "Настройки Silver Bird"
+   },
+   "preventClosing": {
+      "message": "Нажмите правой для предотвращения закрытия."
+   },
+   "queue_retried": {
+      "message": "$retries$ повторов за $timediff$ [$laststatus$]",
+      "placeholders": {
+         "laststatus": {
+            "content": "$3"
+         },
+         "retries": {
+            "content": "$1"
+         },
+         "timediff": {
+            "content": "$2"
+         }
+      }
+   },
+   "queue_trying": {
+      "message": "пытаюсь отправить уже $timediff$",
+      "placeholders": {
+         "timediff": {
+            "content": "$1"
+         }
+      }
+   },
+   "queued_messages": {
+      "message": "Сообщения в очереди:"
+   },
+   "rate_limit_reset": {
+      "message": "Сброс лимитов: "
+   },
+   "refresh": {
+      "description": "Refresh link",
+      "message": "Обновить"
+   },
+   "remaining_api_hits": {
+      "message": "Оставшиеся обращения к Twitter API: "
+   },
+   "remove": {
+      "message": "Удалить "
+   },
+   "resetSize": {
+      "message": "Двойной клик для сброса размера"
+   },
+   "resume": {
+      "message": "Продолжить"
+   },
+   "retweetConfirm": {
+      "message": "Ретвит этого сообщения: "
+   },
+   "retweetedBy": {
+      "message": "ретвит от"
+   },
+   "retweetedByMe": {
+      "message": "мой ретвит"
+   },
+   "selectList": {
+      "message": "- списки -"
+   },
+   "shortenIt": {
+      "message": "Сократить!"
+   },
+   "shorten_current": {
+      "message": "Поделиться текущей страницей"
+   },
+   "shortenerIdleString": {
+      "message": "Наберите ссылку для сокращения, или нажмите сюда →"
+   },
+   "show": {
+      "message": "Показать "
+   },
+   "successAuth": {
+      "message": "Поздравляем, вы успешно вошли в систему. Наслаждайтесь Silver Bird!"
+   },
+   "suspend": {
+      "description": "Suspend link",
+      "message": "Приостановить"
+   },
+   "timeAgo": {
+      "message": "около $time$ $time_string$ назад",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         },
+         "time_string": {
+            "content": "$2"
+         }
+      }
+   },
+   "timelineDM": {
+      "description": "The direct message time line tab",
+      "message": "DM"
+   },
+   "timelineFavorites": {
+      "description": "The home time line tab",
+      "message": "Избранное"
+   },
+   "timelineHome": {
+      "description": "The home time line tab",
+      "message": "Home"
+   },
+   "tml_favorites": {
+      "message": "Избранное:"
+   },
+   "tryAgain": {
+      "message": "Попробовать снова"
+   },
+   "tweet_plural": {
+      "message": "твиты"
+   },
+   "tweet_singular": {
+      "message": "твит"
+   },
+   "tweetit": {
+      "message": "Затвитить!"
+   },
+   "ue_deletingTweet": {
+      "message": "Неожиданная ошибка $status$ удаления твита.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_fetchingLists": {
+      "message": "Неожиданная ошибка $status$  при получении списка.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_markFavorite": {
+      "message": "Неожиданная ошибка $status$ при добавлении в избранное.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_retweeting": {
+      "message": "Неожиданная ошибка $status$ ретвита.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_unmarkFavorite": {
+      "message": "Неожиданная ошибка $status$ при удалении из избранное.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets": {
+      "message": "Неожиданная ошибка $baseError$ при обновлении твита.",
+      "placeholders": {
+         "baseError": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets2": {
+      "message": " Если эта ошибка повторяется, попробуйте выйыти и зайти снова."
+   },
+   "unmarkFavorite": {
+      "message": "Убрать из избранного"
+   },
+   "updateList": {
+      "message": "Обновляю списки..."
+   },
+   "w_DM": {
+      "message": "DMs"
+   },
+   "w_Favorites": {
+      "message": "Избранные"
+   },
+   "w_Home": {
+      "message": "Home"
+   },
+   "w_Lists": {
+      "message": "Списки"
+   },
+   "w_Mentions": {
+      "message": "Упоминания"
+   },
+   "w_Search": {
+      "message": "Поиск"
+   },
+   "w_Unified": {
+      "message": "Общая"
+   },
+   "warningAPIHits": {
+      "message": "Эй! Лимит обращений к API наступает слишком быстро.\u003Cbr>Пожалуйста, пересмотрите настройки интервалов обновления в \u003Ca href='#' class=\"msg-trigger-openoptions\">настройках\u003C/a>. Обратите внимание, что если вы используете несколько Twitter клиентов они имеют общий лимит.\u003Cbr>Осталось обращений: $remainingHits$ - Следующий сброс: $nextResetDate$ $nextResetTime$",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$3"
+         },
+         "nextResetTime": {
+            "content": "$4"
+         },
+         "options_url": {
+            "content": "$1"
+         },
+         "remainingHits": {
+            "content": "$2"
+         }
+      }
+   },
+   "yearsAgo": {
+      "message": "лет назад"
+   },
+   "yourPIN": {
+      "message": "Ваш PIN: $pin$",
+      "placeholders": {
+         "pin": {
+            "content": "$1"
+         }
+      }
+   }
+}

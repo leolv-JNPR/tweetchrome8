@@ -1,0 +1,32 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/icon19.png",
+      "default_popup": "popup.html?popup",
+      "default_title": "Silver Bird"
+   },
+   "content_scripts": [ {
+      "js": [ "lib/3rdparty/jquery.js", "lib/oauth_authorizer.js" ],
+      "matches": [ "http://twitter.com/oauth/authorize", "https://twitter.com/oauth/authorize", "http://api.twitter.com/oauth/authorize", "https://api.twitter.com/oauth/authorize" ]
+   }, {
+      "js": [ "lib/3rdparty/jquery.js", "lib/oauth_identica_authorizer.js" ],
+      "matches": [ "http://identi.ca/api/oauth/authorize", "https://identi.ca/api/oauth/authorize" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYv+3X+YOmPDX/AuHcADMHRFILWuC1y7hkxhygN/hjnsJ8ARp6D0BharyVwOmZtCDGbycnQCxAeZmlD/qquLMemO1VSDTfFsiJ35F4J9jhvzOgeKuuGU680zqWkwF4Lr1qZD5Qkl8WwX2ECp965N19nP/CKR8xSHKcBaMzzxvdbwIDAQAB",
+   "manifest_version": 2,
+   "name": "Silver Bird",
+   "options_page": "options.html",
+   "permissions": [ "notifications", "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.9.10.2"
+}

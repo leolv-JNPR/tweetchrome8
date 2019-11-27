@@ -1,0 +1,710 @@
+{
+   "Delete": {
+      "message": "Cancella"
+   },
+   "No": {
+      "message": "No"
+   },
+   "Reply": {
+      "message": "Rispondi"
+   },
+   "Retweet": {
+      "message": "Retweetta"
+   },
+   "Yes": {
+      "message": "Sì"
+   },
+   "add": {
+      "message": "Aggiungi"
+   },
+   "add_mention_action": {
+      "message": "Menziona"
+   },
+   "ajaxFailed": {
+      "message": "La richiesta AJAX non ha avuto successo(scarsa connessione?)"
+   },
+   "authorizing": {
+      "message": "Attendi, autorizzazione di Silver Bird in corso..."
+   },
+   "autoUpdatesSuspended": {
+      "message": "Sospensione aggiornamenti automatici"
+   },
+   "automatic": {
+      "message": "Lo stesso del browser"
+   },
+   "block_action": {
+      "message": "Blocca"
+   },
+   "btnAuthorize": {
+      "message": "Autorizza!"
+   },
+   "btn_default": {
+      "message": "Opzioni di default"
+   },
+   "btn_reset": {
+      "message": "Resetta"
+   },
+   "btn_reset_popup_size": {
+      "message": "Resetta la grandezza dei pop-up"
+   },
+   "btn_save": {
+      "message": "Salva"
+   },
+   "cancelTweet": {
+      "message": "Cancella Tweet"
+   },
+   "canceling": {
+      "message": "Annullamento..."
+   },
+   "cbAuthorized": {
+      "message": "Silver Bird autorizzato!"
+   },
+   "cbNotAuthorized": {
+      "message": "Ops... Qualcosa è andato storto. Prova a cliccare di nuovo sull'icona di Silver Bird."
+   },
+   "changeNotificationSettings": {
+      "message": "È possibile cambiare le impostazioni delle notifiche nella pagina delle opzioni."
+   },
+   "changes_restart": {
+      "message": "In ogni caso, acuni cambiamenti richiedono un riavvio dell'estensione. Vuoi farlo ora?\u003Cbr>    (Il conto dei tweet non letti verrà resettato.)"
+   },
+   "composeTweet": {
+      "description": "Testo del nuovo tweet",
+      "message": "Scrivi tweet"
+   },
+   "conf_saved": {
+      "message": "Impostazioni salvate correttamente!"
+   },
+   "day_plural": {
+      "message": "giorni"
+   },
+   "day_singular": {
+      "message": "giorno"
+   },
+   "deleteConfirm": {
+      "message": "Cancella il messaggio: "
+   },
+   "detach_window": {
+      "message": "Separa le finestre"
+   },
+   "errorExpandingUrl": {
+      "message": "Qualcosa è andato storto, si prega di riprovare."
+   },
+   "exceededAPIHits": {
+      "message": "Hai superato il limite di hit API. Modifica le opzioni di intervallo tra gli aggiornamenti nella \u003Ca href='#' class=\"msg-trigger-openoptions\">pagina delle opzioni\u003C/a>. Silver Bird non si aggiornerà fino al $nextResetDate $nextResetTime$.",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$2"
+         },
+         "nextResetTime": {
+            "content": "$3"
+         },
+         "options_url": {
+            "content": "$1"
+         }
+      }
+   },
+   "extDescription": {
+      "description": "Descrizione estensione",
+      "message": "Silver Bird è un'estensione di Twitter che ti permette di seguire le timeline ed interagire con i tuoi account Twitter."
+   },
+   "follow_action": {
+      "message": "Segui"
+   },
+   "fromApp": {
+      "message": "da"
+   },
+   "g_advanced": {
+      "message": "Avanzate"
+   },
+   "g_image_service": {
+      "message": "Servizio di immagini"
+   },
+   "g_microblogging_service": {
+      "message": "Servizio di Microblogging"
+   },
+   "g_notifications": {
+      "message": "Notifiche"
+   },
+   "g_shortener": {
+      "message": "Abbreviazione"
+   },
+   "g_timelines": {
+      "message": "Timeline"
+   },
+   "g_trending_topics": {
+      "message": "Trending Topics"
+   },
+   "g_ui": {
+      "message": "Interfaccia utente"
+   },
+   "hide": {
+      "message": "Nascondi"
+   },
+   "hour_plural": {
+      "message": "ore"
+   },
+   "hour_singular": {
+      "message": "ora"
+   },
+   "inReply": {
+      "message": "in risposta a"
+   },
+   "invalid_keys": {
+      "message": "Stai usando delle API key vuote, probabilmente perché stai utilizzando una versione in via di sviluppo.\u003Cbr>È preferibile registrare le applicazioni su http://dev.twitter.com e riempire le APi key nel file lib/secret_keys.jso."
+   },
+   "justNow": {
+      "message": "Adesso"
+   },
+   "l_base_oauth_signing_url": {
+      "message": "OAuth Signing URL:"
+   },
+   "l_base_oauth_url": {
+      "message": "Url OAuth:"
+   },
+   "l_base_search_url": {
+      "message": "Cerca API URL:"
+   },
+   "l_base_signing_url": {
+      "message": "API Signing URL:"
+   },
+   "l_base_url": {
+      "message": "Url delle API di Twitter:"
+   },
+   "l_blocked_users": {
+      "message": "Utenti bloccati:"
+   },
+   "l_change_icon": {
+      "message": "Cambia icona"
+   },
+   "l_compose_position": {
+      "message": "Posizione dell'area di digitazione:"
+   },
+   "l_default_locale": {
+      "message": "Paese di Default:"
+   },
+   "l_font_family": {
+      "message": "Famiglia di font:"
+   },
+   "l_font_size": {
+      "message": "Grandezza carattere:"
+   },
+   "l_hits_notice": {
+      "message": "Hit API all'ora: "
+   },
+   "l_hover_timeout": {
+      "message": "Passa sopra col mouse per visualizzare il tempo(ms):"
+   },
+   "l_icon_color": {
+      "message": "Colore dell'icona:"
+   },
+   "l_icon_color_column": {
+      "message": "Colore dell'icona"
+   },
+   "l_image_up_service": {
+      "message": "Servizio di upload immagini:"
+   },
+   "l_include_in_unified": {
+      "message": "Includi nella timeline unificata"
+   },
+   "l_max_cached_tweets": {
+      "message": "Massimo di tweet visualizzati:"
+   },
+   "l_name_attribute": {
+      "message": "Nome nei tweet:"
+   },
+   "l_noti_desktop": {
+      "message": "Notifiche sul desktop"
+   },
+   "l_noti_on_page": {
+      "message": "Notifica sulla pagina"
+   },
+   "l_notification_fade_timeout": {
+      "message": "Timeout delle notifiche (s):"
+   },
+   "l_notification_max_popups": {
+      "message": "Notifiche instantanee (-1: all):"
+   },
+   "l_notify_retweets": {
+      "message": "Notifica i retweets dei miei tweet?"
+   },
+   "l_notify_rt_always": {
+      "message": "Sempre"
+   },
+   "l_notify_rt_never": {
+      "message": "Mai"
+   },
+   "l_notify_rt_only_first": {
+      "message": "Solo il primo RT"
+   },
+   "l_refresh_interval": {
+      "message": "Intervallo di aggiornamento(s)"
+   },
+   "l_reply_all": {
+      "message": "Rispondi a tutti i menzionati:"
+   },
+   "l_request_timeout": {
+      "message": "Richiesta di timeout (ms):"
+   },
+   "l_same_signing_urls": {
+      "message": "Same signing URLs:"
+   },
+   "l_share_include_title": {
+      "message": "Includi titolo della pagina (sharing):"
+   },
+   "l_shortener_acct": {
+      "message": "Usa account personale?"
+   },
+   "l_shortener_key": {
+      "message": "API Key:"
+   },
+   "l_shortener_login": {
+      "message": "API Login:"
+   },
+   "l_shortener_oauth": {
+      "message": "Usa autenticazione dell'account personale:"
+   },
+   "l_show_expanded_urls": {
+      "message": "Espandi le URLs contratte:"
+   },
+   "l_show_hits_in_popup": {
+      "message": "Visualizza il conto della hit API:"
+   },
+   "l_show_user_autocomplete": {
+      "message": "Completa automaticamente gli username:"
+   },
+   "l_tabs_count": {
+      "message": "Conto delle tab"
+   },
+   "l_theme": {
+      "message": "Tema interfaccia grafica:"
+   },
+   "l_trending_topics_woeid": {
+      "message": "Paese del Trending Topics:"
+   },
+   "l_tweet_color": {
+      "message": "Colore dei tweet:"
+   },
+   "l_tweet_notification": {
+      "message": "Notifica dei tweet"
+   },
+   "l_tweets_color_only_unified": {
+      "message": "Colori solo nella versione unificata:"
+   },
+   "l_tweets_notification_style": {
+      "message": "Stile delle Notifiche:"
+   },
+   "l_tweets_per_page": {
+      "message": "Tweet per pagina:"
+   },
+   "l_unified_timeline": {
+      "message": "Timeline unificata:"
+   },
+   "l_url_shortener": {
+      "message": "Abbreviazione URL:"
+   },
+   "l_use_streaming_api": {
+      "message": "Usa streaming API (sperimentale!):"
+   },
+   "l_user_stream_url": {
+      "message": "User Stream URL:"
+   },
+   "l_visible": {
+      "message": "Visibile"
+   },
+   "loadingImage": {
+      "message": "Caricamento immagine..."
+   },
+   "loadingLongUrl": {
+      "message": "Caricamento URL lungo..."
+   },
+   "loadingMap": {
+      "message": "Caricamento mappa..."
+   },
+   "logout": {
+      "description": "Testo per il link di uscita",
+      "message": "Esci"
+   },
+   "markAllRead": {
+      "message": "Segna tutti come già letti"
+   },
+   "markFavorite": {
+      "message": "Inserisci tra i preferiti"
+   },
+   "minuteAgo": {
+      "message": "Meno di un minuto fa"
+   },
+   "minute_plural": {
+      "message": "minuti"
+   },
+   "minute_singular": {
+      "message": "minuto"
+   },
+   "minutes": {
+      "message": "$nr_of_minutes$ $minutes$ fa",
+      "placeholders": {
+         "minutes": {
+            "content": "$2",
+            "example": "minuto o minuti (singolare / plurale)"
+         },
+         "nr_of_minutes": {
+            "content": "$1"
+         }
+      }
+   },
+   "month_plural": {
+      "message": "mesi"
+   },
+   "month_singular": {
+      "message": "mese"
+   },
+   "nerds_link": {
+      "message": "Statistiche sulle hit API (per nerds)"
+   },
+   "newToken": {
+      "message": "Richiedi un altro token"
+   },
+   "newTweets": {
+      "message": "$count$ $newtweets$",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "newtweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newTweetsAvailable": {
+      "message": "$count$ nuovi $tweets$ da leggere. Aggiorna.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "tweets": {
+            "content": "$2"
+         }
+      }
+   },
+   "newtweets_plural": {
+      "message": "nuovi tweet"
+   },
+   "newtweets_singular": {
+      "message": "nuovo tweet"
+   },
+   "notice_api_hits": {
+      "message": "È consigliabile mantenere le hit API \u003Cspan style=\"color: red;\"> al di sotto di \u003Cspan class=\"__hourly_limit\">\u003C/span>\u003C/span>! Altrimenti Silver Bird non funzionerà correttamente e le timeline non si aggiorneranno più.\u003Cbr>\u003Cspan style=\"color: red;\">Ricorda\u003C/span> che se stai usando più di un client Twitter devi tenere il numero delle hit API ancora più basso."
+   },
+   "notice_right_click_change": {
+      "message": "* Hei, ora puoi usare il menu cliccando col tasto destro direttamente nella finestra di pop up per cambiare quasi tutte le impostazioni. È sufficiente uscire di qui! :)"
+   },
+   "notif_dms": {
+      "message": "DM:"
+   },
+   "notif_home": {
+      "message": "Home:"
+   },
+   "notif_lists": {
+      "message": "Liste:"
+   },
+   "notif_mentions": {
+      "message": "Mentions:"
+   },
+   "notif_search": {
+      "message": "Cerca:"
+   },
+   "oAuthError": {
+      "message": "Mentre tentavi di autenticarti si è verificato il seguente errore: $errorMessage$. \u003Ca href=\"#\" class=\"msg-trigger-openoptions\">Clicca qui per riavviare il processo di autenticazione, grazie.\u003C/a>",
+      "placeholders": {
+         "errorMessage": {
+            "content": "$1"
+         }
+      }
+   },
+   "o_both": {
+      "message": "Entrambi i nomi"
+   },
+   "o_bottom": {
+      "message": "In fondo"
+   },
+   "o_extra_large": {
+      "message": "Grandissimo"
+   },
+   "o_large": {
+      "message": "Grande"
+   },
+   "o_name": {
+      "message": "Nome vero"
+   },
+   "o_normal": {
+      "message": "Normale"
+   },
+   "o_screen_name": {
+      "message": "Nome sullo schermo (nickname)"
+   },
+   "o_small": {
+      "message": "Piccolo"
+   },
+   "o_top": {
+      "message": "In alto"
+   },
+   "oldRT": {
+      "message": "Condividi (RT vecchia maniera)"
+   },
+   "options": {
+      "description": "Link per le opzioni",
+      "message": "Opzioni"
+   },
+   "options_title": {
+      "message": "Opzioni di Silver Bird"
+   },
+   "preventClosing": {
+      "message": "Clicca per evitare che si chiuda."
+   },
+   "profile_action": {
+      "message": "Profilo"
+   },
+   "queue_retried": {
+      "message": "ha riprovato $retries$ volte da $timediff$ fa [$laststatus$]",
+      "placeholders": {
+         "laststatus": {
+            "content": "$3"
+         },
+         "retries": {
+            "content": "$1"
+         },
+         "timediff": {
+            "content": "$2"
+         }
+      }
+   },
+   "queue_trying": {
+      "message": "sta cercando di inviare da $timediff$",
+      "placeholders": {
+         "timediff": {
+            "content": "$1"
+         }
+      }
+   },
+   "queued_messages": {
+      "message": "Messaggi in coda:"
+   },
+   "rate_limit_reset": {
+      "message": "Frequenza di reset API: "
+   },
+   "refresh": {
+      "description": "Link per aggiornare",
+      "message": "Aggiorna"
+   },
+   "remaining_api_hits": {
+      "message": "Hit API di Twitter rimaste: "
+   },
+   "remove": {
+      "message": "Rimuovi"
+   },
+   "report_action": {
+      "message": "Segnala Spam"
+   },
+   "resetSize": {
+      "message": "Fai doppio click per resettare la grandezza"
+   },
+   "resume": {
+      "message": "Riattiva"
+   },
+   "retweetConfirm": {
+      "message": "Retweetta il messaggio: "
+   },
+   "retweetedBy": {
+      "message": "retweettato da"
+   },
+   "retweetedByMe": {
+      "message": "retweettato da me"
+   },
+   "selectList": {
+      "message": "- Seleziona una lista -"
+   },
+   "sentTo": {
+      "message": "inviato a"
+   },
+   "shortenIt": {
+      "message": "Abbrevialo!"
+   },
+   "shorten_current": {
+      "message": "Condividi questa pagina"
+   },
+   "shortenerIdleString": {
+      "message": "Digita un URL per abbreviarlo, o clicca qui →"
+   },
+   "show": {
+      "message": "Mostra"
+   },
+   "successAuth": {
+      "message": "Complimenti, ti sei appena autenticato. Divertiti con Silver Bird!"
+   },
+   "suspend": {
+      "description": "Link per sospendere",
+      "message": "Sospendi"
+   },
+   "timeAgo": {
+      "message": "circa $time$ $time_string$ fa",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         },
+         "time_string": {
+            "content": "$2"
+         }
+      }
+   },
+   "timelineDM": {
+      "description": "Tab della timeline dei DM",
+      "message": "DM"
+   },
+   "timelineFavorites": {
+      "description": "Tab della timeline dei preferiti",
+      "message": "Preferiti"
+   },
+   "timelineHome": {
+      "description": "Tab della timeline principale",
+      "message": "Home"
+   },
+   "tml_favorites": {
+      "message": "Preferiti:"
+   },
+   "trending_topics": {
+      "message": "Trends"
+   },
+   "tryAgain": {
+      "message": "Riprova"
+   },
+   "tweet_plural": {
+      "message": "tweet"
+   },
+   "tweet_send_error": {
+      "message": "Si è verificato un errore durante l'invio del tweet. Twitter si sta comportando in modo strano? Puoi provare di nuovo ma ti conviene controllare il tuo account per evitare di pubblicare lo stesso tweet due volte."
+   },
+   "tweet_singular": {
+      "message": "tweet"
+   },
+   "tweetit": {
+      "message": "Invia il tweet!"
+   },
+   "tweets_action": {
+      "message": "Tweets"
+   },
+   "ue_deletingTweet": {
+      "message": "Errore inaspettato $status$ durante l'eliminazione dei tweet.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_fetchingLists": {
+      "message": "Errore inaspettato $status$ durante il recupero liste.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_markFavorite": {
+      "message": "Errore inaspettato $status$ durante l'inserimento tra i preferiti.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_retweeting": {
+      "message": "Errore inaspettato $status$ durante il retweet.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_unmarkFavorite": {
+      "message": "Errore inaspettato $status$ durante la rimozione dai preferiti.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets": {
+      "message": "Errore inaspettato $baseError$ durante l'aggiornamento dei tweet.",
+      "placeholders": {
+         "baseError": {
+            "content": "$1"
+         }
+      }
+   },
+   "ue_updatingTweets2": {
+      "message": " Se questo errore di timeout appare ripetutamente, esci dall'account e rientra."
+   },
+   "unfollow_action": {
+      "message": "Smetti di seguire"
+   },
+   "unmarkFavorite": {
+      "message": "Rimuovi dai preferiti"
+   },
+   "updateList": {
+      "message": "Aggiorna liste..."
+   },
+   "w_DM": {
+      "message": "DM"
+   },
+   "w_Favorites": {
+      "message": "Preferiti"
+   },
+   "w_Home": {
+      "message": "Home"
+   },
+   "w_Lists": {
+      "message": "Liste"
+   },
+   "w_Mentions": {
+      "message": "Mentions"
+   },
+   "w_ReceivedDM": {
+      "message": "DM Ricevuti"
+   },
+   "w_Search": {
+      "message": "Cerca"
+   },
+   "w_SentDM": {
+      "message": "DM Inviati"
+   },
+   "w_Unified": {
+      "message": "Uniti"
+   },
+   "warningAPIHits": {
+      "message": "Hey! Le tue hit API rimaste si stanno esaurendo troppo velocemente.\u003Cbr>Modifica le opzioni di intervallo tra gli aggiornamenti nella \u003Ca href='#' class=\"msg-trigger-openoptions\">pagina delle opzioni\u003C/a>. Stai attento se hai in esecuzione più client di twitter allo stesso tempo, perché condividono tutti lo stesso limite.\u003Cbr>Hit rimaste a disposizione: $remainingHits$ - Prossimo reset delle hit: $nextResetDate$ $nextResetTime$",
+      "placeholders": {
+         "nextResetDate": {
+            "content": "$3"
+         },
+         "nextResetTime": {
+            "content": "$4"
+         },
+         "options_url": {
+            "content": "$1"
+         },
+         "remainingHits": {
+            "content": "$2"
+         }
+      }
+   },
+   "yearsAgo": {
+      "message": "anni fa"
+   },
+   "yourPIN": {
+      "message": "Il tuo numero PIN è: $pin$",
+      "placeholders": {
+         "pin": {
+            "content": "$1"
+         }
+      }
+   }
+}
