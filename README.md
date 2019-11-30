@@ -1,3 +1,12 @@
+## How to load the extension locally ##
+
+1. Download and extact the project.
+
+2. Enable Develop Mode in Extension https://developer.chrome.com/extensions/faq#faq-dev-01
+
+3. Load extension from the local folder.
+
+
 ## Silver Bird ##
 
 1. What is it?
