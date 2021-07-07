@@ -15,7 +15,7 @@
 
 2. Installing
 
-    Get it at the [chrome web store](https://chrome.google.com/webstore/detail/encaiiljifbdbjlphpgpiimidegddhic)
+    Get it at the [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/silver-bird/hcbfffeikfcamapfkgkmmllbgjpiilac?hl=en-US)
 
     or [Download it directly from GitHub](https://github.com/cezarsa/silver_bird/downloads)
 
