@@ -15,13 +15,13 @@
 
 2. Installing
 
-    Get it at the [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/silver-bird/hcbfffeikfcamapfkgkmmllbgjpiilac?hl=en-US)
+    Get it at the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/silver-bird/hcbfffeikfcamapfkgkmmllbgjpiilac?hl=en-US)
 
     or [Download it directly from GitHub](https://github.com/cezarsa/silver_bird/downloads)
 
 3. Compatibility
 
-    It works on all Chrome distribution channels: Stable, Beta and Dev.
+    It works on all Chrome distribution channels: Stable, Beta and Dev. Also works on Microsoft Edge.
 
 4. Features
 
